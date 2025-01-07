@@ -3,15 +3,21 @@
 <head>
   {{ partial "head.html" . }}
 </head>
-<body>
-  <header>
+<body class="relative">
+  <header class="absolute top-0 left-0 w-full z-50">
     {{ partial "header.html" . }}
   </header>
-  <main>
+
+  <main class="relative">
     {{ block "main" . }}{{ end }}
   </main>
+  
   <footer>
     {{ partial "footer.html" . }}
   </footer>
+
+  {{ partial "head/js.html" . }}
+  {{ partial "icon-data" . }}
 </body>
+{{ block "scripts" . }}{{end}}
 </html>
