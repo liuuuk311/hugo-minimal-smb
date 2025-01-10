@@ -1,84 +1,83 @@
+
 +++
-title = "About Us"
-description = "A short description of this page."
+title = "Chi siamo"
+description = "Una breve descrizione di questa pagina."
 draft = false
 # url = "chi-siamo"
 
-
 [textAndImagesSection]
-  title = "Company name"
-  headline = "Who We Are And What We Stand For"
+  title = "A & B Termoidraulica"
+  headline = "Chi Siamo e Cosa Facciamo"
   description = """
-  Our team proudly offers an on-time guarantee and a 100% customer satisfaction guarantee. It’s why we make sure that our licensed plumbers are highly trained and fully equipped to meet your home’s diverse plumbing service needs.
+  La nostra società, costituita nel 1998, nasce da due soci con decennale esperienza nel settore e provenienti da ambienti dinamici e competitivi. A & B Termoidraulica è vista come uno strumento professionale per offrire al cliente consulenze efficaci e più soluzioni adatte per la scelta delle apparecchiature. 
   """
 
   image = "images/home/feature.jpg"
-  imageAlt = "A handshake over plumbing pipes"
+  imageAlt = "Una stretta di mano sulle tubature"
   image2 = "images/home/feature2.jpg" # optional second image
-  image2Alt = "Close-up of plumbing tools"
+  image2Alt = "Primo piano di strumenti idraulici"
 
   [textAndImagesSection.primaryCTA]
-    ctaText = "Contact Us"
+    ctaText = "Contattaci"
     ctaUrl = "#"
   [textAndImagesSection.secondaryCTA]
-    ctaText = "0 800 555 44 33"
+    ctaText = "0344 42173"
     ctaIcon = "phone"
-    ctaUrl = "tel:08005554433"
+    ctaUrl = "tel:034442173"
 
   [[textAndImagesSection.bulletPoint]]
-    text = "Emergency Repairs"
+    text = "Installazione di caldaie"
     icon = "bolt"
 
   [[textAndImagesSection.bulletPoint]]
-    text = "Residential Plumbing"
+    text = "Sistemi riscaldanti a pavimento"
     icon = "home"
 
   [[textAndImagesSection.bulletPoint]]
-    text = "Commercial Plumbing"
+    text = "Impianti di condizionamento"
     icon = "industry"
 
   [[textAndImagesSection.bulletPoint]]
-    text = "Certified Professionals"
+    text = "Qualità e professionalità garantite"
     icon = "certificate"
 
 [statsSection]
-  title = "Truested professionals"
-  headline = "The numbers speaks for themeself"
-
-  [[statsSection.stats]]
-    value = "10K"
-    text = "Satisfied customers"
-
-  [[statsSection.stats]]
-    value = "25+"
-    text = "Years of experience"
+  title = "Professionisti di fiducia"
+  headline = "I numeri parlano da soli"
 
   [[statsSection.stats]]
     value = "1.5k"
-    text = "Successful projects"
+    text = "Clienti soddisfatti"
+
+  [[statsSection.stats]]
+    value = "25+"
+    text = "Anni di esperienza"
+
+  [[statsSection.stats]]
+    value = "1.5k"
+    text = "Progetti di successo"
 
   [[statsSection.stats]]
     value = "8"
-    text = "Team members"
-  
+    text = "Membri del team"
   
 [menus]
   [menus.main]
     weight = 30
 +++
 
-Welcome to **Plumbing**, where reliability meets craftsmanship. We are a family-owned plumbing business dedicated to providing top-notch service to homes and businesses in [Your City].
+Benvenuti a **A & B Termoidraulica**, dove affidabilità e artigianalità si incontrano. Siamo un'azienda termoidraulica dedicata a fornire servizi di alta qualità a case ed aziende a Tremezzina.
 
-For over a decade, we've been solving plumbing problems with precision and care. From leaky faucets to complex pipe installations, our team of licensed plumbers brings a wealth of experience and a commitment to excellence to every project.
+Da oltre vent'anni, risolviamo problemi termoidraulici con precisione e cura. Dall'installazione di caldaie a sistemi di riscaldamento avanzati, il nostro team porta esperienza e impegno per eccellenza a ogni progetto.
 
-At Plumbing, we believe in:
-- **Transparency**: Upfront pricing with no hidden costs.
-- **Quality Workmanship**: Using the best materials and techniques to ensure lasting results.
-- **Customer Satisfaction**: Your comfort and trust are our top priorities.
+In A & B Termoidraulica, crediamo in:
+- **Trasparenza**: Prezzi chiari senza costi nascosti.
+- **Qualità dell'artigianato**: Utilizziamo i migliori materiali e tecniche per risultati duraturi.
+- **Soddisfazione del cliente**: Il vostro comfort e fiducia sono le nostre priorità.
 
-Whether you're dealing with an emergency or planning a renovation, we're here to help. Call us today and discover why Plumbing is the trusted choice for plumbing services in [Your City].
+Che si tratti di un'emergenza o di una ristrutturazione pianificata, siamo qui per aiutarvi. Chiamateci oggi stesso e scoprite perché A & B Termoidraulica è la scelta sicura per i servizi termoidraulici a Tremezzina.
 
-**Your trusted local plumbers.**  
-**Always on time. Always Plumbing.**  
+**I vostri idraulici locali di fiducia.**  
+**Sempre puntuali. Sempre A & B.**
 
-Need assistance? [Contact us](#) today!
+Serve assistenza? [Contattateci](#) oggi stesso!

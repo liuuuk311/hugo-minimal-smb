@@ -1,6 +1,7 @@
+
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'it'
+title = 'A & B Termoidraulica'
 
 [module]
   replacements = "github.com/liuuuk311/hugo-minimal-smb -> ../../.."
@@ -15,58 +16,50 @@ title = 'My New Hugo Site'
   defaultHero = "images/home/hero_full.jpg"
   
   [params.theme]
-    primaryColor = "#171A1A"      # e.g., a strong blue
-    accentColor = "#10727B"       # e.g., a green accent
-    backgroundColor = "#F3F5F4"   # a very light gray
-    surfaceColor = "#ffffff"      # white for card backgrounds
-    textColor = "#222727"         # near-black for maximum contrast
-    inverseTextColor = "#bcbcbc"  # a white color for dark backgrounds
-    heroType = "sideImage"        # sideImage or fullImage
-    heroGradientBlur = true       # true or false
-    heroGradientColor = 'light'   # light or dark
+    primaryColor = "#171A1A"      
+    accentColor = "#10727B"       
+    backgroundColor = "#F3F5F4"   
+    surfaceColor = "#ffffff"      
+    textColor = "#222727"         
+    inverseTextColor = "#bcbcbc"  
+    heroType = "sideImage"        
+    heroGradientBlur = true       
+    heroGradientColor = 'light'   
     borderRadius = "lg"
-
-  [[params.social]]
-    url = "https://whatsapp.com/username"
-    icon = "fab whatsapp"
-
-  [[params.social]]
-    url = "https://twitter.com/username"
-    icon = "fab twitter"
 
   [[params.social]]
     url = "https://facebook.com/username"
     icon = "fab facebook"
 
   [[params.social]]
-    url = "https://instagram.com/username"
-    icon = "fab instagram"
+    url = "https://twitter.com/username"
+    icon = "fab twitter"
 
   [[params.social]]
-    url = "https://tiktok.com/username"
-    icon = "fab tiktok"
+    url = "https://youtube.com/username"
+    icon = "fab youtube"
 
   [params.footer]
-    headline = "Plumbing services with a quality guarantee"
-    addressTitle = "Address"
-    address = "The USA —<br>785 15h Street, Office 478<br>Boston, MD 02130"
-    contactTitle = "Contact Us"
+    headline = "Esperienza e professionalità al tuo servizio"
+    addressTitle = "Indirizzo"
+    address = "via degli artigiani, 10/A<br>Tremezzina (CO) loc. Mezzegra"
+    contactTitle = "Contattaci"
   
   [params.contacts]
-    phoneNumber = "+1 800 555 25 69"
-    emailAddress = "info@email.com"
-    workingHours = "8:00 AM to 6:00 PM"
-    workingDays = "Monday to Saturday"
+    phoneNumber = "0344 42173"
+    emailAddress = "info@aeb-termoidraulica.it"
+    workingHours = "Lun. - Ven. 08:00 - 17:00<br>Sab. 09:00 - 12:00"
+    workingDays = "Lunedì a Sabato"
 
   [params.header]
-    CTAText = "800 555 25 69"
-    CTAUrl = "tel:+18005552569"
-    subHeading = "Mon to Sat - 8AM to 6PM"
-    secondaryCTAText = "Book online"
-    secondaryCTAUrl = "#"
+    CTAText = "0344 42173"
+    CTAUrl = "tel:034442173"
+    subHeading = "Lun. a Ven. - 08:00 a 17:00, Sab. - 09:00 a 12:00"
+    secondaryCTAText = "Scrivici"
+    secondaryCTAUrl = "mailto:info@aeb-termoidraulica.it"
 
   [params.reviews]
     image = "images/google.png"
     rating = 4.8
-    reviewText = "(73 reviews)"
+    reviewText = "(73 recensioni)"
     reviewUrl = "#"

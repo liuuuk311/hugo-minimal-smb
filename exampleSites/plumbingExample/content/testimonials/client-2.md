@@ -1,10 +1,10 @@
+
 +++
-title = "Client John Doe"
-author = "Client Name"
-role = "Client Role or Position" # Optional, e.g., "CEO, Acme Corp"
-quote = "I couldn’t be happier with the prompt, knowledgeable, and friendly service—truly the best plumber I’ve ever hired!"
-rating = 4
-image = "/images/testimonials/default.jpg" # Path to the client's photo (optional)
+title = "Cliente A & B Termoidraulica"
+author = "A & B Termoidraulica"
+role = "Società di Servizi Termoidraulici"
+quote = "Esperienza e professionalità al tuo servizio, con interventi su misura per garantire il massimo comfort e rendimento."
+rating = 5
+image = "/images/testimonials/default.jpg"
 draft = false
 +++
-

@@ -1,44 +1,45 @@
+
 +++
-title = 'Services'
+title = 'Servizi'
 date = 2023-01-01T08:00:00-07:00
 draft = false
 
 [listingSection]
-  title = "Certified Services"
-  headline = "Our Unique & Exceptional Services"
-  cardType = "simple"    # simple/fullImage
-  section = "services"           # services/projects or leave black for CurrentSection
-  ctaText = "Get a quote"
+  title = "Servizi Certificati"
+  headline = "I Nostri Servizi Unici ed Eccezionali"
+  cardType = "simple"
+  section = "services"
+  ctaText = "Richiedi un preventivo"
   ctaUrl = "#"
 
 [quoteSection]
-  title = "For a free estimate"
-  headline = "Request a quote"
-  subheadline = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventor veritatis et quasi architecto beatae vitae dicta."
-  
+  title = "Per un preventivo gratuito"
+  headline = "Richiedi un preventivo"
+  subheadline = "Per informazioni, preventivi e consigli, contattaci via email a info@aeb-termoidraulica.it."
+
   [quoteSection.form]
-    submitText = "Send"
+    submitText = "Invia"
 
     [[quoteSection.form.input]]
-      name = "First Name"
-      placeholder = "John"
+      name = "Nome"
+      placeholder = "Mario"
       required = true
       type = "text"
 
     [[quoteSection.form.input]]
-      name = "Email address"
-      placeholder = "example@email.com"
+      name = "Indirizzo email"
+      placeholder = "esempio@email.com"
       required = true
       type = "email"
 
     [[quoteSection.form.input]]
-      name = "Message"
-      placeholder = "Your message"
+      name = "Messaggio"
+      placeholder = "Il tuo messaggio"
       required = true
       type = "textarea"
 
 [faqSection]
-  headline = "Frequently Asked Questions"
+  headline = "Domande Frequenti"
 
 [menus]
   [menus.main]
