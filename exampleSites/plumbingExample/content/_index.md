@@ -5,7 +5,7 @@ draft = false
 
 [heroSection]
   headline = "We solve, you evolve — plumbing services"
-  hubheadline = "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum."
+  subheadline = "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum."
   CTA = "Get a Free Quote"
   CTAUrl = "#quote"
   image = "images/home/hero.jpg"

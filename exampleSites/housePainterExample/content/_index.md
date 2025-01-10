@@ -5,7 +5,7 @@ draft = false
 
 [heroSection]
   headline = "Bringing Color to Your World"
-  hubheadline = "Transforming your home with precision, quality, and care."
+  subheadline = "Transforming your home with precision, quality, and care."
   CTA = "Get a Free Quote"
   CTAUrl = "#quote"
   image = "images/home/hero.jpg"

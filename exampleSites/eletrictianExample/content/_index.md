@@ -5,7 +5,7 @@ draft = false
 
 [heroSection]
   headline = "Powering Your Home and Business — Electrical Services"
-  hubheadline = "Your trusted partner for safe, reliable, and efficient electrical solutions."
+  subheadline = "Your trusted partner for safe, reliable, and efficient electrical solutions."
   CTA = "Get a Free Quote"
   CTAUrl = "#quote"
   image = "images/home/hero.jpg"

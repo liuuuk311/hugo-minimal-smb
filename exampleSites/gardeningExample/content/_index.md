@@ -5,7 +5,7 @@ draft = false
 
 [heroSection]
   headline = "We grow, you flourish — gardening services"
-  hubheadline = "Transforming outdoor spaces into lush, vibrant sanctuaries tailored to your vision."
+  subheadline = "Transforming outdoor spaces into lush, vibrant sanctuaries tailored to your vision."
   CTA = "Get a Free Consultation"
   CTAUrl = "#quote"
   image = "images/home/hero.jpg"

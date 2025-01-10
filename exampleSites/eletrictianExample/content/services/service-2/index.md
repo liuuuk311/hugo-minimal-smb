@@ -5,7 +5,7 @@ image = "lighting_installation.jpg"
 icon = "" # optional
 draft = false
 
-# url = "custom-url"
+url = "lighting-installation"
 +++
 
 Illuminate your home or business with our professional lighting installation and design services. From functional lighting for your workspace to ambient lighting that sets the mood, we help you achieve the perfect balance of aesthetics and practicality.
