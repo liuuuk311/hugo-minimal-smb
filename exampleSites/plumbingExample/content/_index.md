@@ -1,108 +1,108 @@
+
 +++
 title = 'Home'
 date = 2023-01-01T08:00:00-07:00
 draft = false
 
 [heroSection]
-  headline = "We solve, you evolve — plumbing services"
-  subheadline = "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum."
-  CTA = "Get a Free Quote"
+  headline = "Esperienza e professionalità al tuo servizio"
+  subheadline = "Sistemi riscaldanti a pavimento, Pannelli solari, Installazione di caldaie, Impianti di condizionamento"
+  CTA = "Richiedi un preventivo gratuito"
   CTAUrl = "#quote"
   image = "images/home/hero.jpg"
-  altText = "A skilled plumber holding a clipboard"
+  altText = "Installatore qualificato con clipboard"
 
   # Optional Stats
   [[heroSection.stats]]
   value = "20+"
-  label = "Parts installed per day"
+  label = "Parti installate al giorno"
 
   [[heroSection.stats]]
   value = "100+"
-  label = "Happy customers weekly"
+  label = "Clienti soddisfatti settimanalmente"
 
   [[heroSection.stats]]
   value = "10+"
-  label = "New clients daily"
+  label = "Nuovi clienti giornalieri"
 
 
 [textAndImagesSection]
-  title = "Quality Assurance"
-  headline = "Plumbing solutions on demand"
-  subheadline = "We install the best plumbing for your home"
+  title = "Garanzia di Qualità"
+  headline = "Soluzioni termoidrauliche su richiesta"
+  subheadline = "Installiamo i migliori impianti per la tua casa"
   description = """
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  Nisl tincidunt eget nullam non nisi.
+  La A & B Termoidraulica fornisce impianti di alta qualità con un servizio professionale e cortese.
   """
-
+  
   image = "images/home/feature.jpg"
-  imageAlt = "A handshake over plumbing pipes"
+  imageAlt = "Stretta di mano sopra tubi idraulici"
   image2 = "images/home/feature2.jpg" # optional second image
-  image2Alt = "Close-up of plumbing tools"
+  image2Alt = "Primo piano degli strumenti idraulici"
 
   [textAndImagesSection.primaryCTA]
-    ctaText = "About Us"
+    ctaText = "Chi Siamo"
     ctaUrl = "/about-us"
   [textAndImagesSection.secondaryCTA]
-    ctaText = "0 800 555 44 33"
+    ctaText = "0344 42173"
     ctaIcon = "phone"
-    ctaUrl = "tel:08005554433"
+    ctaUrl = "tel:034442173"
 
 
 [listingSection]
-  title = "Our Services"
-  headline = "Pipe repair 24/7"
+  title = "I nostri servizi"
+  headline = "Impianti di riscaldamento e condizionamento 24/7"
   cardType = "simple" 
-  section = "services"            # services/projects or leave black for CurrentSection
-  viewAllText = "View All Services"
+  section = "services"            
+  viewAllText = "Visualizza tutti i servizi"
   viewAllUrl = "/services"
 
 [valuePropositionSection]
-  title = "People Trust"
-  headline = "Why We Are Best"
-  subheadline = "Curabitur vitae nunc sed velit dignissim sodales ut eu. Leo vel orci porta non."
+  title = "Perché Sceglierci"
+  headline = "Perché Siamo i Migliori"
+  subheadline = "Qualità, professionalità e cortesia in ogni progetto."
 
   [[valuePropositionSection.values]]
     icon = "id-card"
-    headline = "Licensed Technicians"
-    subheadline = "Mauris augue neque gravida in fermentum et sollicitudin."
+    headline = "Tecnici Qualificati"
+    subheadline = "Personale con esperienza decennale nel settore."
 
   [[valuePropositionSection.values]]
     icon = "thumbs-up"
-    headline = "Top Rated Service"
-    subheadline = "Scelerisque felis imperdiet proin fermentum vel orci."
+    headline = "Servizio Affidabile"
+    subheadline = "Utilizziamo attrezzature e materiali delle marche più prestigiose."
 
   [[valuePropositionSection.values]]
     icon = "clock"
-    headline = "Timely Services"
-    subheadline = "Erat nam at lectus urna duis convallis convallis tellus."
+    headline = "Servizi Puntuali"
+    subheadline = "Garantiamo il massimo comfort e il miglior rendimento."
 
 [testimonialSection]
-  title = "Testimonials"
-  headline = "Feedback from our clients"
+  title = "Testimonianze"
+  headline = "Feedback dai nostri clienti"
 
 [quoteSection]
-  title = "For a free estimate"
-  headline = "Request a quote"
-  subheadline = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventor veritatis et quasi architecto beatae vitae dicta."
-  
+  title = "Per un preventivo gratuito"
+  headline = "Richiedi un preventivo"
+  subheadline = "Compila il form per ricevere un preventivo personalizzato."
+
   [quoteSection.form]
-    submitText = "Send"
+    submitText = "Invia"
 
     [[quoteSection.form.input]]
-      name = "First Name"
-      placeholder = "John"
+      name = "Nome"
+      placeholder = "Mario"
       required = true
       type = "text"
 
     [[quoteSection.form.input]]
-      name = "Email address"
-      placeholder = "example@email.com"
+      name = "Indirizzo email"
+      placeholder = "esempio@email.com"
       required = true
       type = "email"
 
     [[quoteSection.form.input]]
-      name = "Message"
-      placeholder = "Your message"
+      name = "Messaggio"
+      placeholder = "Il tuo messaggio"
       required = true
       type = "textarea"
 
@@ -110,4 +110,3 @@ draft = false
   [menus.main]
     weight = 10
 +++
-
