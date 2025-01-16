@@ -1,11 +1,12 @@
+
 +++
-title = "Lighting Installation and Design"
-description = "Transform your space with expert lighting solutions."
+title = "Progettazione e Installazione di Impianti di Illuminazione"
+description = "Trasforma il tuo spazio con soluzioni di illuminazione esperte."
 image = "lighting_installation.jpg"
 icon = "" # optional
 draft = false
 
-url = "lighting-installation"
+url = "progettazione-installazione-illuminazione"
 +++
 
-Illuminate your home or business with our professional lighting installation and design services. From functional lighting for your workspace to ambient lighting that sets the mood, we help you achieve the perfect balance of aesthetics and practicality.
+Illumina la tua casa o azienda con i nostri servizi professionali di progettazione e installazione di impianti di illuminazione. Dall'illuminazione funzionale per il tuo ambiente di lavoro all'illuminazione ambientale che crea l'atmosfera giusta, ti aiutiamo a raggiungere il perfetto equilibrio tra estetica e praticità.

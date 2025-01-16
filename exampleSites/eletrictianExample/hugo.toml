@@ -1,6 +1,7 @@
+
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'it-it'
+title = 'Marco Demontis Impianti Elettrici'
 
 [module]
   replacements = "github.com/liuuuk311/hugo-minimal-smb -> ../../.."
@@ -15,15 +16,15 @@ title = 'My New Hugo Site'
   defaultHero = "images/home/hero_full.png"
   
   [params.theme]
-    primaryColor = "#171A1A"      # e.g., a strong blue
-    accentColor = "#d95f2b"       # e.g., a green accent
-    backgroundColor = "#F3F5F4"   # a very light gray
-    surfaceColor = "#ffffff"      # white for card backgrounds
-    textColor = "#222727"         # near-black for maximum contrast
-    inverseTextColor = "#F3F5F4"  # a white color for dark backgrounds
-    heroType = "sideImage"        # sideImage or fullImage
-    heroGradientBlur = true       # true or false
-    heroGradientColor = 'light'   # light or dark
+    primaryColor = "#171A1A"
+    accentColor = "#d95f2b"
+    backgroundColor = "#F3F5F4"
+    surfaceColor = "#ffffff"
+    textColor = "#222727"
+    inverseTextColor = "#F3F5F4"
+    heroType = "sideImage"
+    heroGradientBlur = true
+    heroGradientColor = 'light'
     borderRadius = "lg"
 
   [[params.social]]
@@ -47,26 +48,26 @@ title = 'My New Hugo Site'
     icon = "fab tiktok"
 
   [params.footer]
-    headline = "Eletrical services with a quality guarantee"
-    addressTitle = "Address"
-    address = "The USA —<br>785 15h Street, Office 478<br>Boston, MD 02130"
-    contactTitle = "Contact Us"
+    headline = "Servizi elettrici con garanzia di qualità"
+    addressTitle = "Indirizzo"
+    address = "Italia —<br>Via Lazzaretto, 18, 22033 Asso CO"
+    contactTitle = "Contattaci"
   
   [params.contacts]
-    phoneNumber = "+1 800 555 25 69"
-    emailAddress = "info@email.com"
-    workingHours = "8:00 AM to 6:00 PM"
-    workingDays = "Monday to Saturday"
+    phoneNumber = "+39031670483"
+    emailAddress = "azienda@marcodemontis.it"
+    workingHours = "Non specificato"
+    workingDays = "Nessun giorno lavorativo specificato"
 
   [params.header]
-    CTAText = "800 555 25 69"
-    CTAUrl = "tel:+18005552569"
-    subHeading = "Mon to Sat - 8AM to 6PM"
-    secondaryCTAText = "Book online"
+    CTAText = "+39 031 670483"
+    CTAUrl = "tel:+39031670483"
+    subHeading = "Orari non specificati"
+    secondaryCTAText = "Prenota online"
     secondaryCTAUrl = "#"
 
   [params.reviews]
     image = "images/google.png"
     rating = 4.8
-    reviewText = "(73 reviews)"
+    reviewText = "(73 recensioni)"
     reviewUrl = "#"

@@ -1,64 +1,65 @@
+
 +++
-title = "About Us"
-description = "Learn more about who we are and what we stand for."
+title = "Chi Siamo"
+description = "Scopri di più su chi siamo e sui nostri valori."
 draft = false
-# url = "about-us"
+# url = "chi-siamo"
 
 [textAndImagesSection]
-  title = "Bright Sparks Electrical"
-  headline = "Who We Are And What We Stand For"
+  title = "Marco Demontis Impianti Elettrici"
+  headline = "Chi Siamo e Cosa Offriamo"
   description = """
-  At Bright Sparks Electrical, we pride ourselves on providing reliable, professional, and efficient electrical services for homes and businesses. Our certified electricians are equipped with the latest tools and expertise to handle all your electrical needs with precision and care.
+  Presso Marco Demontis Impianti Elettrici, ci impegniamo a fornire servizi elettrici affidabili, professionali ed efficienti per abitazioni e aziende. I nostri elettricisti certificati sono dotati degli ultimi strumenti e competenze per gestire tutte le vostre esigenze elettriche con precisione e attenzione.
   """
 
   image = "images/home/feature.jpg"
-  imageAlt = "An electrician inspecting a circuit board"
+  imageAlt = "Un elettricista che ispeziona un quadro elettrico"
   image2 = "images/home/feature2.jpg" # optional second image
-  image2Alt = "Close-up of electrical tools and wires"
+  image2Alt = "Primo piano di attrezzi e fili elettrici"
 
   [textAndImagesSection.primaryCTA]
-    ctaText = "Contact Us"
-    ctaUrl = "#"
+    ctaText = "Contattaci"
+    ctaUrl = "mailto:azienda@marcodemontis.it"
   [textAndImagesSection.secondaryCTA]
-    ctaText = "0 800 555 44 33"
+    ctaText = "+39 031 670483"
     ctaIcon = "phone"
-    ctaUrl = "tel:08005554433"
+    ctaUrl = "tel:+39031670483"
 
   [[textAndImagesSection.bulletPoint]]
-    text = "Emergency Repairs"
+    text = "Riparazioni d'emergenza"
     icon = "bolt"
 
   [[textAndImagesSection.bulletPoint]]
-    text = "Residential Electrical Work"
+    text = "Lavori elettrici residenziali"
     icon = "home"
 
   [[textAndImagesSection.bulletPoint]]
-    text = "Commercial Installations"
+    text = "Installazioni commerciali"
     icon = "industry"
 
   [[textAndImagesSection.bulletPoint]]
-    text = "Certified Electricians"
+    text = "Elettricisti certificati"
     icon = "certificate"
 
 [statsSection]
-  title = "Trusted Professionals"
-  headline = "The Numbers Speak For Themselves"
+  title = "Professionisti Affidabili"
+  headline = "I Numeri Parlano Chiaro"
 
   [[statsSection.stats]]
     value = "15K"
-    text = "Happy clients"
+    text = "Clienti soddisfatti"
 
   [[statsSection.stats]]
     value = "30+"
-    text = "Years of experience"
+    text = "Anni di esperienza"
 
   [[statsSection.stats]]
     value = "3k"
-    text = "Successful projects"
+    text = "Progetti realizzati con successo"
 
   [[statsSection.stats]]
     value = "12"
-    text = "Team members"
+    text = "Membri del team"
   
   
 [menus]
@@ -66,18 +67,18 @@ draft = false
     weight = 30
 +++
 
-Welcome to **Bright Sparks Electrical**, your trusted partner for all things electrical. As a family-owned business, we are committed to delivering top-quality service with integrity and professionalism. From simple repairs to complex installations, we have the experience and dedication to get the job done right.
+Benvenuti a **Marco Demontis Impianti Elettrici**, il vostro partner di fiducia per tutto ciò che è elettrico. Come azienda a conduzione familiare, ci impegniamo a fornire un servizio di alta qualità con integrità e professionalità. Dalle semplici riparazioni alle installazioni complesse, abbiamo l'esperienza e la dedizione per fare il lavoro nel modo giusto.
 
-For over 30 years, we've been lighting up homes and businesses with safe, efficient, and innovative electrical solutions. Our skilled team of electricians takes pride in ensuring every project is completed on time and to the highest standards.
+Da oltre 30 anni, illuminiamo case e aziende con soluzioni elettriche sicure, efficienti e innovative. Il nostro team di elettricisti qualificati è orgoglioso di garantire che ogni progetto sia completato nei tempi previsti e secondo i più alti standard.
 
-At Bright Sparks Electrical, we believe in:
-- **Safety First**: Ensuring all work complies with the latest safety standards.
-- **Transparent Pricing**: No hidden fees, just honest, upfront quotes.
-- **Customer Satisfaction**: Your needs are our top priority.
+Presso Marco Demontis Impianti Elettrici, crediamo in:
+- **La Sicurezza Prima di Tutto**: Garantire che tutto il lavoro sia conforme agli ultimi standard di sicurezza.
+- **Prezzi Trasparenti**: Nessuna tassa nascosta, solo preventivi onesti e trasparenti.
+- **Soddisfazione del Cliente**: Le tue esigenze sono la nostra massima priorità.
 
-Whether you need a quick repair, an upgrade, or a complete rewiring, we're here to help. Discover why Bright Sparks Electrical is the go-to choice for electrical services in [Your City].
+Che tu abbia bisogno di una rapida riparazione, di un aggiornamento o di un rifacimento totale dell'impianto, siamo qui per aiutarti. Scopri perché Marco Demontis Impianti Elettrici è la scelta ideale per i servizi elettrici in [La Tua Città].
 
-**Your trusted local electricians.**  
-**Always safe. Always Bright Sparks.**  
+**I vostri elettricisti locali di fiducia.**  
+**Sempre sicuri. Sempre Marco Demontis.**  
 
-Need assistance? [Contact us](#) today!
+Hai bisogno di assistenza? [Contattaci](mailto:azienda@marcodemontis.it) oggi stesso!

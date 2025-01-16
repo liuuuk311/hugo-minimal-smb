@@ -1,9 +1,10 @@
+
 +++
-title = "Client Sarah Brown"
-author = "Sarah Brown"
-role = "Homeowner"
-quote = "I couldn’t be happier with the prompt, knowledgeable, and friendly service—truly the best electrician I’ve ever hired! They fixed my wiring issues quickly and explained everything clearly."
+title = "Cliente Marco Demontis"
+author = "Marco Demontis"
+role = "Impiantista Elettrico"
+quote = "Non potrei essere più soddisfatto del servizio rapido, esperto e cordiale—davvero il miglior elettricista che abbia mai assunto! Hanno risolto i miei problemi di impianto in modo veloce e hanno spiegato tutto chiaramente."
 rating = 5
-image = "/images/testimonials/sarah_brown.jpg" # Path to the client's photo (optional)
+image = "/images/testimonials/sarah_brown.jpg"
 draft = false
 +++
