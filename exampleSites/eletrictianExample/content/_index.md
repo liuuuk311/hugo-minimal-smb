@@ -1,107 +1,108 @@
+
 +++
 title = 'Home'
 date = 2023-01-01T08:00:00-07:00
 draft = false
 
 [heroSection]
-  headline = "Powering Your Home and Business — Electrical Services"
-  subheadline = "Your trusted partner for safe, reliable, and efficient electrical solutions."
-  CTA = "Get a Free Quote"
+  headline = "Marco Demontis Impianti Elettrici — Servizi Elettrici"
+  subheadline = "Il tuo partner di fiducia per soluzioni elettriche sicure, affidabili ed efficienti."
+  CTA = "Richiedi un Preventivo"
   CTAUrl = "#quote"
   image = "images/home/hero.jpg"
-  altText = "An electrician working on a circuit board"
+  altText = "Un elettricista che lavora su un quadro elettrico"
 
   # Optional Stats
   [[heroSection.stats]]
   value = "50+"
-  label = "Jobs completed weekly"
+  label = "Progetti completati settimanalmente"
 
   [[heroSection.stats]]
   value = "20+"
-  label = "Years of experience"
+  label = "Anni di esperienza"
 
   [[heroSection.stats]]
   value = "100+"
-  label = "Happy clients monthly"
+  label = "Clienti soddisfatti mensilmente"
 
 
 [textAndImagesSection]
-  title = "Quality Assurance"
-  headline = "Electrical solutions you can trust"
-  subheadline = "Safe, reliable, and efficient electrical work for your home or business"
+  title = "Assicurazione di Qualità"
+  headline = "Soluzioni elettriche di cui ti puoi fidare"
+  subheadline = "Lavoro elettrico sicuro, affidabile ed efficiente per la tua casa o attività"
   description = """
-  Our team of certified electricians provides top-tier electrical services, from installations to emergency repairs. We are committed to delivering quality workmanship and ensuring the safety and efficiency of your electrical systems.
+  Il nostro team di elettricisti certificati fornisce servizi elettrici di altissimo livello, dalle installazioni alle riparazioni d'emergenza. Siamo impegnati a garantire l'alta qualità del lavoro e la sicurezza ed efficienza dei tuoi sistemi elettrici.
   """
 
   image = "images/home/feature.jpg"
-  imageAlt = "An electrician inspecting a circuit breaker"
+  imageAlt = "Un elettricista che ispeziona un interruttore"
   image2 = "images/home/feature2.jpg" # optional second image
-  image2Alt = "Close-up of electrical tools and wires"
+  image2Alt = "Primo piano di utensili e fili elettrici"
 
   [textAndImagesSection.primaryCTA]
-    ctaText = "About Us"
+    ctaText = "Chi Siamo"
     ctaUrl = "/about-us"
   [textAndImagesSection.secondaryCTA]
-    ctaText = "0 800 555 44 33"
+    ctaText = "+39 031 670483"
     ctaIcon = "phone"
-    ctaUrl = "tel:08005554433"
+    ctaUrl = "tel:+39031670483"
 
 
 [listingSection]
-  title = "Our Services"
-  headline = "Safe and Efficient Electrical Solutions"
+  title = "I Nostri Servizi"
+  headline = "Soluzioni Elettriche Sicure ed Efficienti"
   cardType = "simple" 
   section = "services"            # services/projects or leave blank for CurrentSection
-  viewAllText = "View All Services"
+  viewAllText = "Vedi Tutti i Servizi"
   viewAllUrl = "/services"
 
 [valuePropositionSection]
-  title = "Why Choose Us"
-  headline = "Powering Your Trust"
-  subheadline = "Dedicated to quality, safety, and customer satisfaction."
+  title = "Perché Sceglierci"
+  headline = "Accendiamo la Tua Fiducia"
+  subheadline = "Dedicati alla qualità, sicurezza e soddisfazione del cliente."
 
   [[valuePropositionSection.values]]
     icon = "id-card"
-    headline = "Certified Electricians"
-    subheadline = "Trained and certified professionals you can count on."
+    headline = "Elettricisti Certificati"
+    subheadline = "Professionisti formati e certificati su cui puoi contare."
 
   [[valuePropositionSection.values]]
     icon = "thumbs-up"
-    headline = "Top Rated Service"
-    subheadline = "Our clients trust us for quality and reliability."
+    headline = "Servizio di Alta Qualità"
+    subheadline = "I nostri clienti si fidano di noi per qualità e affidabilità."
 
   [[valuePropositionSection.values]]
     icon = "clock"
-    headline = "On-Time Solutions"
-    subheadline = "We value your time and ensure punctual service."
+    headline = "Soluzioni Puntuali"
+    subheadline = "Apprezziamo il tuo tempo e garantiamo un servizio puntuale."
 
 [testimonialSection]
-  title = "Testimonials"
-  headline = "What Our Clients Say"
+  title = "Testimonianze"
+  headline = "Cosa Dicono i Nostri Clienti"
 
 [quoteSection]
-  title = "For a free estimate"
-  headline = "Request a quote"
-  subheadline = "Get in touch with us today for tailored electrical solutions that meet your needs and exceed your expectations."
+  title = "Per un preventivo gratuito"
+  headline = "Richiedi un preventivo"
+  subheadline = "Contattaci oggi stesso per soluzioni elettriche su misura che soddisfano le tue esigenze e superano le tue aspettative."
   
   [quoteSection.form]
-    submitText = "Send"
+    submitText = "Invia"
 
     [[quoteSection.form.input]]
-      name = "First Name"
-      placeholder = "John"
+      name = "Nome"
+      placeholder = "Mario"
       required = true
       type = "text"
 
     [[quoteSection.form.input]]
-      name = "Email address"
-      placeholder = "example@email.com"
+      name = "Indirizzo email"
+      placeholder = "esempio@email.com"
       required = true
       type = "email"
 
     [[quoteSection.form.input]]
-      name = "Message"
-      placeholder = "Your message"
+      name = "Messaggio"
+      placeholder = "Il tuo messaggio"
       required = true
       type = "textarea"
 

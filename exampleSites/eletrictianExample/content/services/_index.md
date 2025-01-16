@@ -1,44 +1,45 @@
+
 +++
-title = 'Services'
+title = 'Servizi'
 date = 2023-01-01T08:00:00-07:00
 draft = false
 
 [listingSection]
-  title = "Our Electrical Services"
-  headline = "Reliable and Expert Solutions"
-  cardType = "simple"    # simple/fullImage
-  section = "services"           # services/projects or leave blank for CurrentSection
-  ctaText = "Get a quote"
+  title = "I Nostri Servizi Elettrici"
+  headline = "Soluzioni Affidabili ed Esperte"
+  cardType = "simple"
+  section = "services"
+  ctaText = "Richiedi un preventivo"
   ctaUrl = "#"
 
 [quoteSection]
-  title = "For a free estimate"
-  headline = "Request a quote"
-  subheadline = "Whether you need an urgent repair or a full electrical system upgrade, we’re here to provide a personalized solution that meets your needs and budget."
+  title = "Per un preventivo gratuito"
+  headline = "Richiedi un preventivo"
+  subheadline = "Che si tratti di una riparazione urgente o di un aggiornamento completo dell'impianto elettrico, siamo qui per fornire una soluzione personalizzata che soddisfi le tue esigenze e il tuo budget."
   
   [quoteSection.form]
-    submitText = "Send"
+    submitText = "Invia"
 
     [[quoteSection.form.input]]
-      name = "First Name"
-      placeholder = "John"
+      name = "Nome"
+      placeholder = "Marco"
       required = true
       type = "text"
 
     [[quoteSection.form.input]]
-      name = "Email address"
-      placeholder = "example@email.com"
+      name = "Indirizzo email"
+      placeholder = "esempio@email.com"
       required = true
       type = "email"
 
     [[quoteSection.form.input]]
-      name = "Message"
-      placeholder = "Your message"
+      name = "Messaggio"
+      placeholder = "Il tuo messaggio"
       required = true
       type = "textarea"
 
 [faqSection]
-  headline = "Frequently Asked Questions"
+  headline = "Domande Frequenti"
 
 [menus]
   [menus.main]
